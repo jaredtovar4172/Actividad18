@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\bin\Debug\Ej18_Exponentes.exe.config
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\bin\Debug\Ej18_Exponentes.exe
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\bin\Debug\Ej18_Exponentes.pdb
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.Form1.resources
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.exe
+C:\Users\jared\source\repos\Ej18_Exponentes\Ej18_Exponentes\obj\Debug\Ej18_Exponentes.pdb
